@@ -1,0 +1,5 @@
+{
+  "name": "geoSearch",
+  "app_id": "",
+  "watchPatterns": ["www/**/*", "!www/lib/**/*", "!www/**/.#*"]
+}
